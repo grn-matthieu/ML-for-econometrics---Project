@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 #Raw and treated data
-.csv
+*.csv
