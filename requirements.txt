@@ -18,8 +18,15 @@ fonttools==4.56.0
 fsspec==2025.3.0
 gdown==5.2.0
 geopandas==1.0.1
+google-ai-generativelanguage==0.6.15
+google-api-core==2.24.2
+google-api-python-client==2.166.0
+google-auth==2.38.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.8.4
 googleapis-common-protos==1.69.2
 grpcio==1.71.0
+grpcio-status==1.71.0
 httplib2==0.22.0
 idna==3.10
 ipykernel==6.29.5
@@ -47,6 +54,7 @@ packaging==24.2
 pandas==2.2.3
 parso==0.8.4
 patsy==1.0.1
+pgmpy==0.1.26
 pillow==11.1.0
 platformdirs==4.3.7
 plotly==6.0.1
@@ -80,6 +88,7 @@ shapely==2.0.7
 six==1.17.0
 soupsieve==2.6
 stack-data==0.6.3
+statsmodels==0.14.4
 sympy==1.13.1
 threadpoolctl==3.6.0
 torch==2.6.0
